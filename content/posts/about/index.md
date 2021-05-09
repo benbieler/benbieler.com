@@ -6,4 +6,6 @@ displayInList = false
 dropCap = false
 +++
 
-wip
+Work in progress...
+
+Reach me via email inquiries@benbieler.com or on Twitter: https://twitter.com/benbieler
