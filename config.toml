@@ -1,13 +1,15 @@
 baseURL = "https://benbieler.com/"
 languageCode = "en-us"
-title = "benbieler.com"
+title = "Ben Bieler - Blog, Portfolio, Contact"
+author = "Ben Bieler"
 theme = "aether"
 googleAnalytics = "G-Q2K8W2LRBJ"
 #disqusShortname = "Your shortname for Disqus - optional"
 
 [params]
-	brand = "benbieler.com"
+	brand = "Ben Bieler"
 	description = "My personal page"
+    headshotimg = "img/benbieler.jpeg"
   github = "https://github.com/benbieler"
   linkedin = "https://linkedin.com/in/benbieler"
 	bgimg = "https://avatars.githubusercontent.com/u/10898370?v=4"
