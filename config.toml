@@ -1,4 +1,18 @@
 baseURL = "http://benbieler.com/"
 languageCode = "en-us"
 title = "benbieler.com"
-theme = "ananke"
+theme = "aether"
+googleAnalytics = "G-Q2K8W2LRBJ"
+#disqusShortname = "Your shortname for Disqus - optional"
+
+[params]
+	brand = "benbieler.com"
+	description = "My personal page"
+  github = "https://github.com/benbieler"
+  linkedin = "https://linkedin.com/in/benbieler"
+	bgimg = "https://avatars.githubusercontent.com/u/10898370?v=4"
+	rssinmenu = true
+
+[markup]
+  [markup.highlight]
+    style = "igor"
