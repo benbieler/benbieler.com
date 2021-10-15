@@ -2,7 +2,7 @@ baseURL = "https://benbieler.com/"
 languageCode = "en-us"
 title = "Ben Bieler - Blog, Portfolio, Contact"
 author = "Ben Bieler"
-theme = "aether"
+theme = "PaperMod"
 googleAnalytics = "G-Q2K8W2LRBJ"
 #disqusShortname = "Your shortname for Disqus - optional"
 
